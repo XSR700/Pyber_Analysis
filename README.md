@@ -23,4 +23,6 @@ After analying the data and interpreting a graph we can come up with recommendat
 
 According to the dataframe we see that there are more drivers than rides in urban cities. This leads to drivers struggling to get passengers when competition is high. the CEO could set a campaign and encourage drivers to work in suburban or rural areas of the city and spread out the population. 
 
+Another recommendation would be to look into rural cities and make changes there. The ammount of activity over all rural cities is significatly less compared to all other types of cities. This low activity creates larger average fares and less opportunities for drivers to find work. Pyber should look into creating incentives for riders and drivers in rural cities to help spur more business. These incentives could include bonuses for drivers or free ride promotions for riders. 
 
+According to the dataframe, the average fare for a driver in urban cities is $16.57 which is the lowest among all the other city types. Urban cities generate the highest fate total and thereore play a bigger role in Pyber's demographic vlues. The CEO should consider increasing the margins for urban drivers and help even the playing field for drivers across all city types. 
