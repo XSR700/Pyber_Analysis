@@ -18,3 +18,9 @@ The line graph below illustrates how Pyber's fare performed in each city type fr
 
 
 ## Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+
+After analying the data and interpreting a graph we can come up with recommendations. 
+
+According to the dataframe we see that there are more drivers than rides in urban cities. This leads to drivers struggling to get passengers when competition is high. the CEO could set a campaign and encourage drivers to work in suburban or rural areas of the city and spread out the population. 
+
+
