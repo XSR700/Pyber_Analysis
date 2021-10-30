@@ -1,6 +1,6 @@
 # Pyber_Analysis
 
-## Overview of the analysis: Explain the purpose of the new analysis.
+## Overview of the analysis:
 Pyber is a ride-sharing app used across the country. This analysis aims to improve Pyber's ride-sharing services by illustrating and describing the data divided by city types. This analysis uses Python scripts with Pandas library and Matplotlib through Jupyter Notebook. 
 
 
